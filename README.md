@@ -38,14 +38,17 @@ And navigate to `http://127.0.0.1:8000`.
 2. Add Todo
 
 ![](screenshots/post1.png)
+
 ![](screenshots/post2.png)
 
 3. Delete Todo
 
 ![](screenshots/delete1.png)
+
 ![](screenshots/delete2.png)
 
 4. Edit Todo
 
 ![](screenshots/edit1.png)
+
 ![](screenshots/edit2.png)
