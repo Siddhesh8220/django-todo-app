@@ -1,0 +1,3 @@
+I think Flask is much easier to work with than Django. Flask is much more lightweight and can be used easily when working with small projects. 
+Django is full fledged framework and it divides project into small modules called applications so it will be easier to manage large application with it.
+So It depends on the scale project which one to use. Both are great in my opinion.
